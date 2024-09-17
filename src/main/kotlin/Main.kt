@@ -3,5 +3,5 @@ fun main() {
     val valTwo = 14
     println("Произведение 5*14 = ${valOne * valTwo}")
     println("Произведение 5*14 = ${valOne * valTwo}")
-    println("Произведение 5*14 = ${valOne * valTwo}")
+    println("Произведение 5*14 = ${valOne * valThree}")
 }
